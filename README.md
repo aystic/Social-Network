@@ -1,6 +1,6 @@
 # Social-Network-Web-App
 
-## A social-networking web-app made using ReactJS , NodeJS, ExpressJS, Socket.IO and MongoDB and TEST API
+## A social-networking web-app made using ReactJS , NodeJS, ExpressJS, Socket.IO and MongoDB and REST API
 
 [![The Website](images/thumbnail1.png)][youtube]
 
